@@ -1,5 +1,5 @@
 # EDIYH
 
 <img src="maquette whatsapp.jpg">
-
-<img src="maquette.jpg">
+<img src="maquette whatsapp.jpg">
+<img src="maquette whatsapp.jpg">
